@@ -1,5 +1,6 @@
 # NLP
-A starter NLP project on various tasks
+# Introduction
+This is a starter NLP project on various tasks for learning purposes.
 
 Text classification dataset was download from Kaggle:
 
