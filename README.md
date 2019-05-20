@@ -6,7 +6,7 @@ Text classification dataset was download from Kaggle:
 
 https://www.kaggle.com/bittlingmayer/amazonreviews
 
-Use SWEM^1 and LEAM^2 to accomplish text classification task
+Use SWEM<sup>1</sup> and LEAM<sup>2</sup> to accomplish text classification task
 
 # Reference
 1. Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms. Shen, Dinghan and Wang, Guoyin and Wang, Wenlin and Renqiang Min, Martin and Su, Qinliang and Zhang, Yizhe and Li, Chunyuan and Henao, Ricardo and Carin, Lawrence. ACL(2018). 
